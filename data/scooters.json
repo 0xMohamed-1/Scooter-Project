@@ -1,0 +1,16 @@
+[
+  {
+    "scooter_id": "fc0905a6-7143-4818-885f-126aac202516",
+    "type": "standard",
+    "battery_level": 100,
+    "status": "available",
+    "current_station_id": "b58f2085-9bbd-412a-af9c-1e519038c186"
+  },
+  {
+    "scooter_id": "bbe001b3-0a27-4c0e-ad78-8243c03d9344",
+    "type": "premium",
+    "battery_level": 95,
+    "status": "available",
+    "current_station_id": "b58f2085-9bbd-412a-af9c-1e519038c186"
+  }
+]

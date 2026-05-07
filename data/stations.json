@@ -1,0 +1,15 @@
+[
+  {
+    "station_id": "b58f2085-9bbd-412a-af9c-1e519038c186",
+    "name": "Zayed University",
+    "location": {
+      "maps_url": "https://maps.app.goo.gl/9GxFtMs38uhToSht8",
+      "station_id": "b58f2085-9bbd-412a-af9c-1e519038c186"
+    },
+    "capacity": 5,
+    "scooter_ids": [
+      "fc0905a6-7143-4818-885f-126aac202516",
+      "bbe001b3-0a27-4c0e-ad78-8243c03d9344"
+    ]
+  }
+]

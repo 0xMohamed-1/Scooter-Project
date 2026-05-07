@@ -1,0 +1,29 @@
+[
+  {
+    "record_id": "4452dffb-2b42-4775-bcc9-bde366990da8",
+    "scooter_id": "bbe001b3-0a27-4c0e-ad78-8243c03d9344",
+    "reported_by": "3422fe20-e4c0-4780-bc81-4b9b39606483",
+    "reported_at": "2026-04-30 01:20:01.293655",
+    "description": "Brake feels loose",
+    "resolved_at": "2026-04-30 01:20:01.294842",
+    "status": "resolved"
+  },
+  {
+    "record_id": "4a1bf8af-8824-4c73-896a-ab05f00f81d3",
+    "scooter_id": "fc0905a6-7143-4818-885f-126aac202516",
+    "reported_by": "admin-001",
+    "reported_at": "2026-04-30 01:20:01.294248",
+    "description": "Wheel wobble",
+    "resolved_at": "2026-04-30 01:52:22.123325",
+    "status": "resolved"
+  },
+  {
+    "record_id": "a44209a9-1ea4-4ae6-9567-a734551cf729",
+    "scooter_id": "bbe001b3-0a27-4c0e-ad78-8243c03d9344",
+    "reported_by": "admin-001",
+    "reported_at": "2026-04-30 01:52:08.682157",
+    "description": "bad",
+    "resolved_at": "2026-04-30 01:52:17.328178",
+    "status": "resolved"
+  }
+]

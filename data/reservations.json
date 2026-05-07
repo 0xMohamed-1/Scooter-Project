@@ -1,0 +1,18 @@
+[
+  {
+    "reservation_id": "657009a6-b335-4cf8-809b-84e4194850a5",
+    "user_id": "3422fe20-e4c0-4780-bc81-4b9b39606483",
+    "scooter_id": "fc0905a6-7143-4818-885f-126aac202516",
+    "created_at": "2026-04-30 01:20:01.291414",
+    "expires_at": "2026-04-30 01:35:01.291414",
+    "status": "converted"
+  },
+  {
+    "reservation_id": "879f06a0-d5c7-48af-973e-1c9578e582f5",
+    "user_id": "9c8a9a9c-4a03-4c38-b432-49631993e919",
+    "scooter_id": "bbe001b3-0a27-4c0e-ad78-8243c03d9344",
+    "created_at": "2026-05-07 18:05:14.174709",
+    "expires_at": "2026-05-07 18:20:14.174709",
+    "status": "converted"
+  }
+]
