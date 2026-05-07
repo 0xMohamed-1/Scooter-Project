@@ -1,0 +1,56 @@
+[
+  {
+    "payment_id": "91963cab-b0fb-4f4c-9884-f62f66f3fc07",
+    "rental_id": "ff033efe-fec3-48ac-b423-f265db90b7f1",
+    "user_id": "3422fe20-e4c0-4780-bc81-4b9b39606483",
+    "amount": 0.0,
+    "method": "card",
+    "timestamp": "2026-04-30 01:20:01.292912",
+    "status": "completed"
+  },
+  {
+    "payment_id": "bf2699aa-ede0-49a1-9fc3-838d37870c12",
+    "rental_id": "eaa4768c-9b39-407d-bab4-4ff4489b1b5d",
+    "user_id": "d8c27f5a-5b55-4d98-b669-1f49e504f9ea",
+    "amount": 1.19,
+    "method": "card",
+    "timestamp": "2026-04-30 01:49:50.133027",
+    "status": "completed"
+  },
+  {
+    "payment_id": "17145846-4e43-4462-80d3-5f399740caee",
+    "rental_id": "8a9d7c4b-3e0b-4abf-b5d2-18f6b5c8142b",
+    "user_id": "d8c27f5a-5b55-4d98-b669-1f49e504f9ea",
+    "amount": 0.44,
+    "method": "card",
+    "timestamp": "2026-04-30 12:01:23.354604",
+    "status": "completed"
+  },
+  {
+    "payment_id": "337f6e3a-b188-4ca9-bfd8-97e73770b483",
+    "rental_id": "ce34bc4f-f02f-4947-b1c1-bd53761d20ed",
+    "user_id": "9c8a9a9c-4a03-4c38-b432-49631993e919",
+    "amount": 2.32,
+    "method": "card",
+    "timestamp": "2026-05-05 13:04:45.584921",
+    "status": "completed"
+  },
+  {
+    "payment_id": "e8a20a66-41e4-4830-a665-7780acdc5b36",
+    "rental_id": "ad8fd647-da30-421a-9c5a-00a619b5c0d3",
+    "user_id": "2bd0a04d-e64a-474f-8718-6884e4f67a93",
+    "amount": 0.03,
+    "method": "wallet",
+    "timestamp": "2026-05-07 20:03:20.283391",
+    "status": "completed"
+  },
+  {
+    "payment_id": "6ff05d3a-50d2-47d9-8157-3559bf6ba529",
+    "rental_id": "be2e3f58-2783-4a24-9c78-e3b258939aa3",
+    "user_id": "2bd0a04d-e64a-474f-8718-6884e4f67a93",
+    "amount": 0.03,
+    "method": "wallet",
+    "timestamp": "2026-05-07 20:06:21.360258",
+    "status": "completed"
+  }
+]

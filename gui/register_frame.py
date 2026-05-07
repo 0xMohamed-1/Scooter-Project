@@ -1,6 +1,7 @@
 # register_frame.py
 # Registration screen — creates a new RegisteredMember account.
 
+import re
 import tkinter as tk
 from tkinter import messagebox
 
@@ -56,6 +57,11 @@ class RegisterFrame(tk.Frame):
         password = self._pw_entry.get()
         if not name or not email or not password:
             self._error_label.config(text="Please fill in all fields.")
+            return
+
+        # regex: requires at least one non-@ char, then @, then a domain with a dot (e.g. user@example.com)
+        if not re.match(r"^[^@\s]+@[^@\s]+\.[^@\s]+$", email):
+            self._error_label.config(text="Please enter a valid email address.")
             return
 
         member, msg = self._system.register_user(name, email, password, "wallet")
