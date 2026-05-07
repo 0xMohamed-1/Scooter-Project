@@ -154,5 +154,29 @@
     "total_cost": 0.08,
     "status": "completed",
     "payment_id": "efb6b199-cdfb-46fb-bf30-7028e547ed19"
+  },
+  {
+    "rental_id": "ad8fd647-da30-421a-9c5a-00a619b5c0d3",
+    "user_id": "2bd0a04d-e64a-474f-8718-6884e4f67a93",
+    "scooter_id": "fc0905a6-7143-4818-885f-126aac202516",
+    "start_time": "2026-05-07 20:03:17.217903",
+    "end_time": "2026-05-07 20:03:20.283321",
+    "start_station_id": "b58f2085-9bbd-412a-af9c-1e519038c186",
+    "end_station_id": "b58f2085-9bbd-412a-af9c-1e519038c186",
+    "total_cost": 0.03,
+    "status": "completed",
+    "payment_id": "e8a20a66-41e4-4830-a665-7780acdc5b36"
+  },
+  {
+    "rental_id": "be2e3f58-2783-4a24-9c78-e3b258939aa3",
+    "user_id": "2bd0a04d-e64a-474f-8718-6884e4f67a93",
+    "scooter_id": "fc0905a6-7143-4818-885f-126aac202516",
+    "start_time": "2026-05-07 20:06:17.679012",
+    "end_time": "2026-05-07 20:06:21.360201",
+    "start_station_id": "b58f2085-9bbd-412a-af9c-1e519038c186",
+    "end_station_id": "b58f2085-9bbd-412a-af9c-1e519038c186",
+    "total_cost": 0.03,
+    "status": "completed",
+    "payment_id": "6ff05d3a-50d2-47d9-8157-3559bf6ba529"
   }
 ]

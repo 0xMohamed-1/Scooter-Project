@@ -1,0 +1,33 @@
+[
+  {
+    "user_id": "admin-001",
+    "name": "Admin User",
+    "email": "admin",
+    "password": "admin",
+    "role": "admin"
+  },
+  {
+    "user_id": "3422fe20-e4c0-4780-bc81-4b9b39606483",
+    "name": "Test",
+    "email": "test@test.com",
+    "password": "test",
+    "role": "member",
+    "payment_method": "wallet",
+    "wallet_balance": 0.0,
+    "rental_history": [
+      "ff033efe-fec3-48ac-b423-f265db90b7f1"
+    ]
+  },
+  {
+    "user_id": "9c8a9a9c-4a03-4c38-b432-49631993e919",
+    "name": "Mohammad",
+    "email": "Mohammad@swe320.com",
+    "password": "password",
+    "role": "member",
+    "payment_method": "wallet",
+    "wallet_balance": 1337.0,
+    "rental_history": [
+      "ce34bc4f-f02f-4947-b1c1-bd53761d20ed"
+    ]
+  }
+]
